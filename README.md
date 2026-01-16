@@ -28,7 +28,6 @@ Displays player information in a clean ox_lib context menu with support for ESX 
 - Phone Number
 - Citizen ID (QB-Core)
 - Gang (QB-Core)
-- Stress Level (QB-Core)
 - Hunger Level
 - Thirst Level
 
@@ -113,3 +112,4 @@ For issues or questions, please open a ticket on our [DISCORD](https://discord.g
 ---
 
 **Enjoy! 🚀**
+
