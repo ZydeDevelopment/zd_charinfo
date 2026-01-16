@@ -104,7 +104,11 @@ This script is **free** and open for everyone to use.
 
 ## 🐛 Support
 
-For issues or questions, please open an issue on GitHub.
+For issues or questions, please open a ticket on our [DISCORD](https://discord.gg/cQSmd3hRt6)
+
+---
+## PREVIEW
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9f48e4bf-d493-437a-bec5-258b15f6a16e" />
 
 ---
 
