@@ -107,9 +107,11 @@ For issues or questions, please open a ticket on our [DISCORD](https://discord.g
 
 ---
 ## PREVIEW
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9f48e4bf-d493-437a-bec5-258b15f6a16e" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1dbf7fc2-ed29-4d0a-bdcd-99ef973c2689" />
+
 
 ---
 
 **Enjoy! 🚀**
+
 
